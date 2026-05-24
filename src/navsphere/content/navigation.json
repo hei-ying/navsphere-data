@@ -33,6 +33,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1779640473929",
+      "title": "搜索",
+      "icon": "Home",
+      "description": "搜索 API KEY",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
