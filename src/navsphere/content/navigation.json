@@ -17,10 +17,10 @@
         },
         {
           "id": "site_1779609365042_gh7ztmqik",
-          "title": "multica",
-          "href": "http://127.0.0.1:3000",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=127.0.0.1",
+          "title": "Multica — Project Management for Human + Agent Teams",
+          "href": "http://localhost:3101/",
+          "description": "Open-source platform that turns coding agents into real teammates. Assign tasks, track progress, compound skills.",
+          "icon": "/assets/favicon_1779611180191.svg",
           "enabled": true
         }
       ],
