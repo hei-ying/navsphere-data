@@ -22,6 +22,14 @@
           "description": "Open-source platform that turns coding agents into real teammates. Assign tasks, track progress, compound skills.",
           "icon": "/assets/favicon_1779611180191.svg",
           "enabled": true
+        },
+        {
+          "id": "item-1779613020078",
+          "enabled": true,
+          "title": "Stitch - Design with AI",
+          "href": "https://stitch.withgoogle.com/",
+          "description": "访问 stitch.withgoogle.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=stitch.withgoogle.com"
         }
       ],
       "subCategories": []
