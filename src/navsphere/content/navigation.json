@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1779607149302_gftnxkp6k",
+          "title": "FastClaw",
+          "href": "http://localhost:18953",
+          "description": "AI Agent Framework",
+          "icon": "/assets/favicon_1779607133262.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
