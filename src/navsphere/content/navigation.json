@@ -46,6 +46,14 @@
           "href": "https://getdesign.md/request",
           "description": "访问 getdesign.md",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=getdesign.md"
+        },
+        {
+          "id": "item-1779815534979",
+          "enabled": true,
+          "title": "ku0.com - 库 ｜ AI 资源库 ChatGPT、Claude、AWS Bedrock 与 Azure ChatGPT",
+          "href": "https://ku0.com/",
+          "description": "ku0.com — 面向企业与中转站提供 ChatGPT Pro 20x、Claude Max 20x、Claude Max 号池、AWS Bedrock 与 Azure ChatGPT 资源，支持万级 RPM API 接入、用量看板与清晰售后规则。",
+          "icon": "/assets/favicon_1779815530674.png"
         }
       ],
       "subCategories": []
