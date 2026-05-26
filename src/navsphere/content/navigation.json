@@ -38,6 +38,14 @@
           "href": "https://github.com/VoltAgent/awesome-design-md",
           "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. - VoltAgent/awesome-design-md",
           "icon": "https://github.githubassets.com/favicons/favicon"
+        },
+        {
+          "id": "item-1779814384374",
+          "enabled": true,
+          "title": "Request a Private DESIGN.md — getdesign.md",
+          "href": "https://getdesign.md/request",
+          "description": "访问 getdesign.md",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=getdesign.md"
         }
       ],
       "subCategories": []
