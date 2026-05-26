@@ -30,6 +30,14 @@
           "href": "https://stitch.withgoogle.com/",
           "description": "访问 stitch.withgoogle.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=stitch.withgoogle.com"
+        },
+        {
+          "id": "item-1779814216739",
+          "enabled": true,
+          "title": "VoltAgent/awesome-design-md: A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+          "href": "https://github.com/VoltAgent/awesome-design-md",
+          "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. - VoltAgent/awesome-design-md",
+          "icon": "https://github.githubassets.com/favicons/favicon"
         }
       ],
       "subCategories": []
