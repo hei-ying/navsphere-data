@@ -48,6 +48,14 @@
           "href": "https://api-dashboard.search.brave.com/app/keys",
           "description": "访问 api-dashboard.search.brave.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=api-dashboard.search.brave.com"
+        },
+        {
+          "id": "item-1779799623766",
+          "enabled": true,
+          "title": "Stitch - Design with AI",
+          "href": "https://stitch.withgoogle.com/",
+          "description": "访问 stitch.withgoogle.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=stitch.withgoogle.com"
         }
       ],
       "subCategories": []
