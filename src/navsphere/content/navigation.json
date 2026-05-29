@@ -54,6 +54,14 @@
           "href": "https://ku0.com/",
           "description": "ku0.com — 面向企业与中转站提供 ChatGPT Pro 20x、Claude Max 20x、Claude Max 号池、AWS Bedrock 与 Azure ChatGPT 资源，支持万级 RPM API 接入、用量看板与清晰售后规则。",
           "icon": "/assets/favicon_1779815530674.png"
+        },
+        {
+          "id": "item-1780017289059",
+          "enabled": true,
+          "title": "DOMD",
+          "href": "https://www.domd.app/editor",
+          "description": "Markdown editor",
+          "icon": "/assets/favicon_1780017285191.ico"
         }
       ],
       "subCategories": []
