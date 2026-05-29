@@ -62,6 +62,14 @@
           "href": "https://www.domd.app/editor",
           "description": "Markdown editor",
           "icon": "/assets/favicon_1780017285191.ico"
+        },
+        {
+          "id": "item-1780056231717",
+          "enabled": true,
+          "title": "AIComing — 不止于中转",
+          "href": "https://aicoming.top/#",
+          "description": "访问 aicoming.top",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=aicoming.top"
         }
       ],
       "subCategories": []
