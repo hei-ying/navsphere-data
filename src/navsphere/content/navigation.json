@@ -70,6 +70,14 @@
           "href": "https://aicoming.top/#",
           "description": "访问 aicoming.top",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=aicoming.top"
+        },
+        {
+          "id": "item-1780918849826",
+          "enabled": true,
+          "title": "Initial Project - Project retired | Vibe Kanban",
+          "href": "http://127.0.0.1:64638/projects/a096260e-6865-4328-9dd0-1db8a32959e0",
+          "description": "liuxl18230694410@gmail.com's Org",
+          "icon": "/assets/favicon_1780918844608.svg"
         }
       ],
       "subCategories": []
